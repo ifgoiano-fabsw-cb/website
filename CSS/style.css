@@ -706,12 +706,6 @@ footer {
 
 /*===== SESSÃO CONTATO =====*/
 
-.contact-bg {
-  background-color: var(--c-brand);
-  height: 70vh;
-  padding: 50px;
-}
-
 form input,
 textarea {
   color: var(--textColor) !important;
